@@ -11,8 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raja-irfan-ahmed-203682217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raja-irfan-ahmed-203682217" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucsw8cxulmkyf0xpdhprojrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucsw8cxulmkyf0xpdhprojrw" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raja-irfan-ahmed-203682217" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raja-irfan-ahmed-203682217" height="30" width="40" /></a>
+<a href="https://www.behance.net/raja_irfan_ahmed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="raja_irfan_ahmed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@thepassionator" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thepassionator" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
