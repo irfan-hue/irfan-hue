@@ -3,10 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfan-hue&label=Profile%20views&color=0e75b6&style=flat" alt="irfan-hue" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfan-hue" alt="irfan-hue" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=irfan-hue&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 💫 About Me:
 - 🔭 I’m currently working on **Web Development**
-
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, Tailwind**
 
 <h3 align="left">Connect with me:</h3>
