@@ -31,6 +31,21 @@
 </div>
 <br />
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajairfanahmed&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajairfanahmed&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajairfanahmed&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajairfanahmed&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajairfanahmed&theme=2077&utcOffset=8)  
+<h3 align="left">Stars:</h3>
+<div align="center">
+ <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajairfanahmed&layout=compact&theme=highcontrast" alt=rajairfanahmed />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rajairfanahmed&show_icons=true&locale=en&theme=highcontrast" alt="rajairfanahmed" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajairfanahmed&theme=highcontrast" alt="rajairfanahmed" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+</div>
+<div align="center">
+<a href="https://github.com/rajairfanahmed">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajairfanahmed&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajairfanahmed&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajairfanahmed&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajairfanahmed&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajairfanahmed&theme=2077" height="180em" />
+</div>
